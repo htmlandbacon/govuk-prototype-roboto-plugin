@@ -1,0 +1,20 @@
+{
+  "scripts": {
+    "dev": "govuk-prototype-kit dev",
+    "serve": "govuk-prototype-kit serve",
+    "start": "govuk-prototype-kit start"
+  },
+  "name": "@htmlandbacon/govuk-prototype-roboto-plugin",
+  "version": "0.1.0",
+  "dependencies": {
+    "@govuk-prototype-kit/common-templates": "2.0.1",
+    "govuk-frontend": "5.10.1",
+    "govuk-prototype-kit": "13.16.2"
+  },
+  "files": [
+    "govuk-prototype-kit.config.json",
+    "README.md",
+    "/app/assets/sass/roboto.scss",
+    "/app/views/layouts/roboto.njk"
+  ]
+}

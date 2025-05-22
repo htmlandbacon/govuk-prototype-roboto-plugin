@@ -1,0 +1,8 @@
+{
+    "nunjucksPaths": [
+      "/app/views/"
+    ],
+    "sass": [
+        "/app/assets/sass/roboto.scss"
+    ]
+}
